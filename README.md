@@ -70,9 +70,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Product Performance**
 - **Sales Trends**
 
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
-
-If you would like more details, please refer to [docs/requirements.md](docs/requirements.md).
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ## 📂 Repository Structure
 ```
@@ -84,7 +82,10 @@ data-warehouse-project/
 │   ├── data_architecture.drawio        # Draw.io file shows the project's architecture
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
 │   ├── data_flow.drawio                # Draw.io file for the data flow diagram
+|   ├── data_integration_model.drawio   # Draw.io file for the data integration model
+|   ├── data_layers.pdf                 # Pdf file for the data layers diagrams
 │   ├── data_models.drawio              # Draw.io file for data models (star schema)
+|   ├── (.png) files                    # (.png) file for all the data  diagrams
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
@@ -103,7 +104,7 @@ data-warehouse-project/
 
 ## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](LICENSE). You are more than welcome to use, modify, and share this project with proper attribution.
 
 ## ✨ About Me
 
